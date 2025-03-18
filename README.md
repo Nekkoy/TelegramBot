@@ -4,7 +4,7 @@
 
 Авторизация
 ============
- - [По логину и паролю](/Nekkoy/TelegramBot/blob/main/compose/README.md)
+ - [По логину и паролю]([/Nekkoy/TelegramBot/blob/main/compose/README.md](https://github.com/Nekkoy/TelegramBot/blob/main/Auth/auth.login-pass.gif?raw=true))
  - По номеру договора и паролю
  - По номеру телефона и паролю
  - По ОТП коду (номер телефона)
