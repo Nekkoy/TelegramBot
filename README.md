@@ -54,7 +54,7 @@
 
 Подписки
 ============
- - Без midleware
+ - Без middleware
  - IPTV Portal
  - MegoGO
  - OLLTv
