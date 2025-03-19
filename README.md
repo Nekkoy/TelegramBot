@@ -4,13 +4,13 @@
 
 Авторизация
 ============
- - [По логину и паролю](https://github.com/Nekkoy/TelegramBot/blob/main/Auth/auth.login-pass.gif?raw=true)
- - По номеру договора и паролю
- - По номеру телефона и паролю
- - По ОТП коду (номер телефона)
- - По номеру телефона
+ - [По логину и паролю](https://github.com/Nekkoy/TelegramBot/blob/main/example/auth.login-pass.gif?raw=true)
+ - [По номеру договора и паролю](https://github.com/Nekkoy/TelegramBot/blob/main/example/auth.dogovor-pass.gif?raw=true)
+ - [По номеру телефона и паролю](https://github.com/Nekkoy/TelegramBot/blob/main/example/auth.contact-pass.gif?raw=true)
+ - [По ОТП коду (номер телефона)](https://github.com/Nekkoy/TelegramBot/blob/main/example/auth.contact-sms.gif?raw=true)
+ - [По номеру телефона](https://github.com/Nekkoy/TelegramBot/blob/main/example/auth.contact.gif?raw=true)
 
-Так же доступен мультиаккаунтинг - абонент может подключить сколько угодно учетных записей 
+Так же доступен [мультиаккаунтинг](https://github.com/Nekkoy/TelegramBot/blob/main/example/account.add.switch.gif?raw=true) - абонент может подключить сколько угодно учетных записей 
 из биллинга и переключаться между ними прямо в боте.
 
 Мультиязычность
@@ -26,16 +26,20 @@
  - Детализация об абонплате
  - Детализация об скидках
 
+[Пример](https://github.com/Nekkoy/TelegramBot/blob/main/example/bot_profile.jpg?raw=true)
+
 Новости
 ============
  - Отображение новостей из Личного кабинета
 
-Чет с поддержкой
+Чат с поддержкой
 =================
  - Задать вопрос
  - Посмотреть список текущих вопросов
  - Просмотр диалога
  - Уведомление об ответе в диалоге
+
+[Пример](https://github.com/Nekkoy/TelegramBot/blob/main/example/support.gif?raw=true)
 
 Услуги
 ============
@@ -45,6 +49,8 @@
  - Турбо
  - Белый IP
  - Изменение МАК
+
+[Пример](https://github.com/Nekkoy/TelegramBot/blob/main/example/services.gif?raw=true)
 
 Подписки
 ============
@@ -58,11 +64,13 @@
  - TrinityTV
  - YouTV
 
+[Пример](https://github.com/Nekkoy/TelegramBot/blob/main/example/iptv.gif?raw=true)
+
 Платежные системы
 ==================
- - Карты пополнения
+ - [Карты пополнения](https://github.com/Nekkoy/TelegramBot/blob/main/example/payment.cards.gif?raw=true)
  - Click
- - EasyPay
+ - [EasyPay](https://github.com/Nekkoy/TelegramBot/blob/main/example/payment.external.gif?raw=true)
  - Fondy
  - Freedompay
  - IPay
