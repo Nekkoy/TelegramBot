@@ -2,6 +2,8 @@
 
 Что умеет данный бот ? Все тоже самое что и Личный кабинет но где то даже больше...
 
+![jpg image](https://github.com/Nekkoy/TelegramBot/blob/main/example/start.jpg)
+
 Авторизация
 ============
  - [По логину и паролю](https://github.com/Nekkoy/TelegramBot/blob/main/example/auth.login-pass.gif?raw=true)
