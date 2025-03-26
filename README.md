@@ -1,6 +1,10 @@
 # TelegramBot
 
-Что умеет данный бот ? Все тоже самое что и Личный кабинет но где то даже больше...
+Что умеет [данный бот](http://t.me/Nekkoy_MB_bot) ? Все тоже самое что и Личный кабинет но где то даже больше...
+
+Для авторизации используйте данные абонентов из [demo mikbill](https://admin.mikbill.pro)
+
+Логин и пароль: demo/demo
 
 ![jpg image](https://github.com/Nekkoy/TelegramBot/blob/main/example/start.jpg)
 
