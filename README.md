@@ -1,4 +1,4 @@
-# TelegramBot
+# Mikbill Telegram Bot
 
 Что умеет [данный бот](http://t.me/Nekkoy_MB_bot) ? Все тоже самое что и Личный кабинет но где то даже больше...
 
